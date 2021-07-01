@@ -25,8 +25,8 @@ b. If the input contains spaces, make sure to put it in quotes.
 
 ### Sample Output and Verification
 
-![Sample Output](./imgs/cli.png.jpg?raw=true "Output")
-![Sample Verification](./imgs/verification.png.jpg?raw=true "Verification")
+![Sample Output](./imgs/cli.png?raw=true "Output")
+![Sample Verification](./imgs/verification.png?raw=true "Verification")
 
 ---
 
