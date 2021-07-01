@@ -5,6 +5,7 @@
 | --- | --- | --- | ---| --- |
 | 001 | C, Makefile | Stacks | 2021-06-29 | [readme](./001-stacks/readme.md) |
 | 002 | HTML, CSS | Neumorphism | 2021-06-30 | [readme](./002-neumorphism/readme.md) |
+| 003| Go | Text to Binary | 2021-07-01 | [readme](./003-text-to-binary/readme.md) |
 | | | | | |
 
 ---
