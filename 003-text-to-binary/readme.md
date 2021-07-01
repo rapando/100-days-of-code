@@ -23,6 +23,11 @@ b. If the input contains spaces, make sure to put it in quotes.
 ./text-to-binary "My name is Sam"
 ```
 
+### Sample Output and Verification
+
+![Sample Output](./imgs/cli.png.jpg?raw=true "Output")
+![Sample Verification](./imgs/verification.png.jpg?raw=true "Verification")
+
 ---
 
 To test if the output is correct, convert the binary output to text [here](https://www.rapidtables.com/convert/number/binary-to-ascii.html)

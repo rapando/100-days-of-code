@@ -57,5 +57,5 @@ func eightBitBinary(binary string) string {
 	for i := 0; i < deficit; i++ {
 		prefix += "0"
 	}
-	return prefix + binary + "\n"
+	return prefix + binary + " "
 }
