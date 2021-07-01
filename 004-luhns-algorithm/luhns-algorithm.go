@@ -2,7 +2,6 @@ package main
 
 import (
 	"fmt"
-	"log"
 
 	"github.com/rapando/100-days-of-code/004-luhns-algorithm/luhns"
 )
@@ -11,7 +10,8 @@ func main() {
 	input := "7992739813"
 	valid, err := luhns.Validator(input)
 	if err != nil {
-		log.Fatal("Error")
+		fmt.Printf("%s has invalid characters. Only digits are allowed\n", input)
+		return
 	}
 
 	if valid {
