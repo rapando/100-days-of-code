@@ -6,6 +6,8 @@
 ; You can replace section with segment
 ;
 ; syntax : [label] mnemonic [operands] [;comment]
+; ===============================================================
+
 
 section .text
     global _start           ; must be declared for linker (ld)
