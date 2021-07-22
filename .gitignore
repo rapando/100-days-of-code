@@ -2,3 +2,5 @@ stack
 .env
 tmp
 build
+*.o
+bin
