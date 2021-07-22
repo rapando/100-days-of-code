@@ -2,7 +2,7 @@
 
 A simple hello - world program in assembly Language.
 
-To assemble and run, run the `01.hello-compiler.sh` file.
+To assemble and run, run the `hello-compiler.sh` file.
 
 ---
 
