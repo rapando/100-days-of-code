@@ -8,6 +8,7 @@
 | 003 | Go | Text to Binary | [readme](./003-text-to-binary/readme.md) |
 | 004 | Go | Luhn Algorithm | [readme](./004-luhns-algorithm/readme.md) |
 | 005 | Asm | Hello World | [readme](./005-assembly/readme.md) |
+| 006 | Go | Append/Prepend to array | [readme](./006-append-prepend/readme.md) |
 | | | | |
 
 ---
